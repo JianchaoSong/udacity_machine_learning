@@ -1,0 +1,38 @@
+-- VERSION_4
+-- START DISKCACHE
+D:\Python\ud120-projects\.metadata\.plugins\org.eclipse.core.resources\.projects\IntroToML\com.python.pydev.analysis\v2_indexcache
+email_preprocess|1422277221538|D:\Python\ud120-projects\tools\email_preprocess.py
+feature_format|1421854685586|D:\Python\ud120-projects\tools\feature_format.py
+prep_terrain_data|1421854682931|D:\Python\ud120-projects\choose_your_own\prep_terrain_data.py
+parse_out_email_text|1421854685587|D:\Python\ud120-projects\tools\parse_out_email_text.py
+startup|1421854685587|D:\Python\ud120-projects\tools\startup.py
+class_vis|1421854682931|D:\Python\ud120-projects\choose_your_own\class_vis.py
+your_algorithm|1421854682932|D:\Python\ud120-projects\choose_your_own\your_algorithm.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+2=feature_format
+6=email_preprocess
+4=prep_terrain_data
+3=parse_out_email_text
+7=startup
+5=class_vis
+1=your_algorithm
+-- END DICTIONARY
+-- START TREE 1
+11
+bum|2|bumpy_slow!11@bumpy_fast!11@
+fea|1|featureFormat!18@
+gra|2|grade_fast!11@grade_slow!11@
+mai|1|main!26@
+mak|1|makeTerrainData!34@
+out|1|output_image!42@
+par|1|parseOutText!26@
+pre|2|preprocess!50@prettyPicture!42@
+tar|1|targetFeatureSplit!18@
+tfi|1|tfile!59@
+url|1|url!59@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

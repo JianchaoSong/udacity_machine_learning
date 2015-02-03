@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;IntroToMachineLe&apos;" deleteContents="true" description="Delete resource &apos;IntroToMachineLe&apos;" element1="/IntroToMachineLe" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1422937801799"/>&#x0A;<refactoring comment="Delete resource &apos;IntroToML/choose_your_own&apos;" deleteContents="false" description="Delete resource &apos;IntroToML/choose_your_own&apos;" element1="/IntroToML/choose_your_own" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1422937929112"/>
+</session>

@@ -1,8 +1,0 @@
-MODULES_MANAGER_V2
-class_vis|D:\Python\ud120-projects\choose_your_own\class_vis.py
-email_preprocess|D:\Python\ud120-projects\tools\email_preprocess.py
-feature_format|D:\Python\ud120-projects\tools\feature_format.py
-parse_out_email_text|D:\Python\ud120-projects\tools\parse_out_email_text.py
-prep_terrain_data|D:\Python\ud120-projects\choose_your_own\prep_terrain_data.py
-startup|D:\Python\ud120-projects\tools\startup.py
-your_algorithm|D:\Python\ud120-projects\choose_your_own\your_algorithm.py

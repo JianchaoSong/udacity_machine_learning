@@ -37,3 +37,9 @@ print 'totally %d peoples' % len(pois_name)
 print 'total stock of James Prentice is ' , enron_data['PRENTICE JAMES']['total_stock_value']
 print 'number of emails from Wesley Colwell to POIs : ', enron_data['COLWELL WESLEY']['from_this_person_to_poi'] 
 print 'stock options exercised by Jeffrey Skilling : ', enron_data['SKILLING JEFFREY K']['exercised_stock_options']
+
+names = ['LAY KENNETH L', 'SKILLING JEFFREY K','FASTOW ANDREW S']
+for individual in names:
+    print 'total payments of '+individual + ' : '
+    print '\t\t', enron_data[individual]['total_payments']
+    
